@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Melas.
 
-I currently work for <a href="https://mystenlabs.com"> Mysten Labs </a> at the Solutions Engineering department in Thessaloniki, Greece as a Smart Contract Auditor Expert.
+I currently work for <a href="https://mystenlabs.com"> Mysten Labs </a> at the Solutions Engineering department in Thessaloniki, Greece 
 
 - You can reach me on george.melas@mystenlabs.com
 
