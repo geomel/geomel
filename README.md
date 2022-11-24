@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Melas.
 
-I currently work for <a href="https://mystenlabs.com"> Mysten Labs </a> at the Solutions Engineering department in Thessaloniki, Greece 
+I currently work for <a href="https://mystenlabs.com"> Mysten Labs </a> as a Solutions Engineer.
 
 - You can reach me on george.melas@mystenlabs.com
 
