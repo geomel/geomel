@@ -1,8 +1,18 @@
-- 👋 Hi, I’m George Melas.
+# 👋 Hi, I’m George Melas
 
-I currently work for <a href="https://mystenlabs.com"> Mysten Labs </a> as a Solutions Engineer.
+🚀 **Solutions Engineer @ [Mysten Labs](https://mystenlabs.com)**  
+Designing and building **Web3 solutions** powered by **Sui**.
 
-- You can reach me on george.melas@mystenlabs.com
+I focus on scalable backend systems, blockchain infrastructure, and developer experience within the Sui ecosystem.
+
+💡 Passionate about:  
+- Smart contract development (Move on Sui)  
+- Backend engineering  
+- Web3 architecture and protocol design  
+- Developer tooling and SDKs for blockchain adoption
+
+📫 **Reach me at:** george.melas@mystenlabs.com  
+🌐 [Mysten Labs](https://mystenlabs.com)
 
 <!---
 geomel/geomel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
